@@ -53,7 +53,6 @@ Cada iniciativa busca desenvolver habilidades técnicas, pensamento analítico e
 <p align="center">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet"/>
 </p>
 
@@ -84,7 +83,7 @@ A equipe trabalha com divisão de responsabilidades e troca constante de conheci
     </td>
 
   <td align="center" width="180">
-      <img src="https://github.com/Conexao-Analytics/.github/blob/main/Integrantes/Vanessa.jpg" width="120"><br>
+      <img src="https://github.com/Conexao-Analytics/.github/blob/main/Integrantes/Vanessa.png" width="120"><br>
       <strong>Vanessa Simão da Costa</strong><br>
       <a href="https://github.com/VanessaCosta91"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/vanessa-costa-analysis/">LinkedIn</a>
     </td>
