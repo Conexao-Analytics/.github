@@ -45,6 +45,34 @@ A equipe trabalha com divisão de responsabilidades e troca constante de conheci
 
 ## 👤 Membros da equipe
 
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Francielle.png" width="120"><br>
+      <strong>Francielle Cristina da Costa Silva</strong><br>
+      <a href="https://github.com/fran-costa16"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/francielle-costa-b80672a5/">LinkedIn</a>
+    </td>
+
+  <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Vanessa.png" width="120"><br>
+      <strong>Vanessa Simão da Costa</strong><br>
+      <a href="https://github.com/VanessaCosta91"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/vanessa-costa-analysis/">LinkedIn</a>
+    </td>
+
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Tatiana.png" width="120"><br>
+      <strong>Tatiana Varona V</strong><br>
+      <a href="https://github.com/Tativv"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/tatiana-varona-villavicencio/">LinkedIn</a>
+    </td>
+
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Ingrid.png" width="120"><br>
+      <strong>Ingrid Costa Ferreira</strong><br>
+      <a href="https://github.com/ingridcos"><b>GitHub</b></a> | <a href="https://www.linkedin.com/in/ingridfe/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## ✨ Objetivo
